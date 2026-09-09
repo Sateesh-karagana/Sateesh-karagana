@@ -1,139 +1,137 @@
-<h1 align="center">Hi 👋, I'm Sateesh Karagana</h1>
+# Hi 👋, I'm Sateesh Karagana
 
-<h3 align="center">
-Senior Cloud Platform Engineer • Go Developer • AI & DevOps Engineer
-</h3>
+### Senior Backend Engineer | Python • Rust • Go | Distributed Systems
 
-<p align="center">
-Building scalable cloud-native platforms, AI-powered applications, and distributed systems.
-</p>
+Senior software engineer with **13+ years of experience** building backend systems, enterprise platforms, automation solutions, distributed systems, and cloud-native applications.
+
+Based in **Hamburg, Germany** 🇩🇪
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Senior Cloud Platform Engineer with **13+ years** of experience
-- ☁️ Designing cloud-native applications using **AWS, GCP & Kubernetes**
-- ⚡ Backend development using **Go, Python & Rust**
-- 🤖 Building **LLM Applications, MCP Servers & AI Integrations**
-- 🚀 Passionate about Distributed Systems & Microservices
-- 🌍 Based in Hamburg, Germany
+* 🐍 Strong **Python backend engineering** experience across enterprise applications, data-processing pipelines, asynchronous workloads, automation, and scientific/HPC environments
+* 🦀 **3 years of Rust experience** building asynchronous backend services and microservices
+* ⚡ **4 years of Go backend experience** developing cloud-native microservices and distributed systems
+* 🔄 Experienced with **concurrency, parallelism, asynchronous processing, backpressure, and performance engineering**
+* 🗄️ Strong experience with **PostgreSQL, Elasticsearch, Redis, and data-processing architectures**
+* 📊 Production observability using **OpenTelemetry, Prometheus, Grafana, Splunk, metrics, and structured logging**
+* ☁️ Cloud-native development with **Kubernetes, Docker, AWS, GCP, Linux, and CI/CD**
+* 🤖 Building AI-enabled backend integrations using **Python, OpenAI, Claude, and Model Context Protocol (MCP)**
+* ✈️ Previous engineering experience supporting **Airbus scientific and HPC platforms**
+* 🤝 Experienced in technical leadership, mentoring, Agile delivery, and working with distributed engineering teams
 
 ---
 
-## 🌐 Connect with Me
+# 💻 Technical Stack
 
-<p align="left">
+### 🐍 Python
 
-<a href="mailto:ksateesh530@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+`Python` `FastAPI` `Flask` `Pydantic` `asyncio` `REST APIs` `Data Processing` `Automation` `Ruff` `uv` `ty`
 
-<a href="https://www.linkedin.com/in/sateesh-karagana-4641701b5">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🦀 Rust
 
-</p>
+`Rust` `Tokio` `Axum` `Warp` `Tonic` `Prost` `Serde` `Hyper` `gRPC` `JWT`
 
----
+Experience building asynchronous Rust microservices with **Tokio/Axum** and **Tonic/Prost gRPC** service-to-service communication.
 
-# 💻 Technology Stack
+### ⚡ Go
 
-### Programming Languages
+`Go` `gRPC` `Protobuf` `REST APIs` `Microservices` `OAuth2` `Redis`
 
-<p>
-<img src="https://skillicons.dev/icons?i=go,python,rust,bash"/>
-</p>
+Experience building cloud-native backend services and distributed systems using Go.
 
-### Cloud & Containers
+### 🗄️ Data & Storage
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes"/>
-</p>
+`PostgreSQL` `Elasticsearch` `Redis` `MySQL` `SQLite` `Cassandra`
 
-### DevOps
+### 📊 Observability
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,linux"/>
-</p>
+`OpenTelemetry` `Prometheus` `Grafana` `Splunk` `Structured Logging` `Metrics`
 
-### Databases
+### ☁️ Cloud & Platform
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
-</p>
+`Kubernetes` `Docker` `Helm` `AWS` `GCP` `Linux` `CI/CD` `Jenkins` `Ansible`
 
-### Tools & Platforms
+### 🏗️ Architecture
 
-<p>
-<img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,postman,prometheus,grafana,git,github,linux"/>
-</p>
+`Distributed Systems` `Microservices` `API Design` `gRPC` `Protobuf` `Clean Architecture` `SOLID`
 
 ---
 
-# 🚀 Expertise
+# 🔧 Engineering Experience
 
-✅ Cloud Platform Engineering
+### Python Backend & Data Engineering
 
-✅ Microservices
+Designed and developed Python backend components for enterprise service platforms, including scheduled/background processing, asynchronous workloads, data transformation, and production observability.
 
-✅ REST APIs
+Worked with large volumes of data across **Elasticsearch and PostgreSQL**, designing staged data-processing models and customer-specific datasets for downstream application consumption.
 
-✅ Kubernetes
+Used **asyncio, concurrency, parallel execution, and backpressure controls** to improve workload stability, throughput, and resource utilization.
 
-✅ Docker
+### Rust Backend Engineering
 
-✅ CI/CD Pipelines
+Developed a **Rust-based authentication platform** composed of asynchronous microservices using **Tokio and Axum**.
 
-✅ Infrastructure Automation
+Implemented service-to-service communication using **Tonic/Prost gRPC**, together with Serde-based serialization, JWT authentication, and structured error handling.
 
-✅ Distributed Systems
+### Go & Distributed Systems
 
-✅ Linux Administration
+Built cloud-native backend services using **Go, gRPC, Protobuf, REST APIs, event-driven communication, OAuth2, and Redis**, applying Clean Architecture and SOLID principles.
 
-✅ AI & LLM Integration
+### Scientific Computing & HPC
 
-✅ MCP (Model Context Protocol)
+Worked in the **Airbus scientific/HPC environment**, developing Python-based deployment automation, enhancing LSF workload scripts, and building Linux monitoring and operational automation.
 
-✅ Machine Learning Integration
+Supported platforms serving **14,000+ engineering users**, with a focus on production reliability, troubleshooting, and automation.
 
----
+### Enterprise Python / ERP
 
-# 📂 Featured Projects
+Developed and customized enterprise **Odoo ERP applications using Python and PostgreSQL**, working across Sales, Purchase, Accounting, Manufacturing, Subcontracting, Budgeting, and HR.
 
-| Project | Description |
-|----------|-------------|
-| 🚀 MCP Python Server | OpenAI Apps SDK & MCP Server |
-| 🤖 AI Agent Framework | LLM-powered intelligent agents |
-| ☁️ Cloud Platform | Kubernetes-based platform services |
-| ⚡ Go REST APIs | High-performance backend services |
-| 🐳 DevOps Automation | Docker, Jenkins & CI/CD |
-| 🦀 Rust Services | High-performance system components |
+Worked extensively within large existing Python codebases implementing new modules, business rules, workflows, data models, and reporting.
 
 ---
 
-# 🏅 Certifications
+# 🤖 AI & Developer Productivity
 
-- Certified Scrum Master (CSM)
-- SAFe Agile
-- DevOps
-- Python Development
+Experience integrating AI capabilities into backend and enterprise workflows using:
 
----
+* OpenAI
+* Claude
+* Model Context Protocol (MCP)
+* AI-assisted development workflows
 
-# 🌱 Currently Learning
-
-- AI Agents
-- MCP Servers
-- OpenAI Apps SDK
-- Advanced Kubernetes
-- Rust
-- Generative AI
+Interested in applying AI where it can improve engineering productivity, automation, and enterprise software workflows.
 
 ---
 
-## 📫 Let's Connect
+# 🎯 Engineering Interests
 
-If you're interested in collaborating on Cloud, AI, Kubernetes, Go, or Platform Engineering projects, feel free to reach out.
+* Backend Engineering
+* Python & Rust
+* Distributed Systems
+* Performance Engineering
+* Concurrency & Asynchronous Processing
+* Cloud-Native Architecture
+* Data Processing
+* Developer Tooling
+* AI-enabled Backend Systems
 
-📧 **ksateesh530@gmail.com**
+---
+
+# 🏅 Certifications & Training
+
+* Certified ScrumMaster (CSM)
+* SAFe Agile Training
+* DevOps Training
+* Python Development Training
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in challenging backend engineering problems involving **Python, Rust, distributed systems, performance, cloud-native platforms, and AI-enabled applications**.
+
+📍 Hamburg, Germany
+📧 [ksateesh530@gmail.com](mailto:ksateesh530@gmail.com)
