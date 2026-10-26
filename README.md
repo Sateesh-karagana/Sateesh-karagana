@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sateesh Karagana
 
-### Senior Backend Engineer | Python • Rust • Go | Distributed Systems
+### Senior Backend Engineer | Go • Rust • Python | Distributed Systems
 
 Senior software engineer with **13+ years of experience** building backend systems, enterprise platforms, automation solutions, distributed systems, and cloud-native applications.
 
@@ -10,9 +10,10 @@ Based in **Hamburg, Germany** 🇩🇪
 
 ## 👨‍💻 About Me
 
-* 🐍 Strong **Python backend engineering** experience across enterprise applications, data-processing pipelines, asynchronous workloads, automation, and scientific/HPC environments
+* Strong **backend engineering** experience across enterprise applications, data-processing pipelines, asynchronous workloads, automation, and scientific/HPC environments.
+* ⚡ **5 years of Go backend experience** developing cloud-native microservices and distributed systems
 * 🦀 **3 years of Rust experience** building asynchronous backend services and microservices
-* ⚡ **4 years of Go backend experience** developing cloud-native microservices and distributed systems
+* 🐍 **4 years of Python backend experience** developing cloud-native microservices, distributed systems and enterprise applications.
 * 🔄 Experienced with **concurrency, parallelism, asynchronous processing, backpressure, and performance engineering**
 * 🗄️ Strong experience with **PostgreSQL, Elasticsearch, Redis, and data-processing architectures**
 * 📊 Production observability using **OpenTelemetry, Prometheus, Grafana, Splunk, metrics, and structured logging**
@@ -25,9 +26,11 @@ Based in **Hamburg, Germany** 🇩🇪
 
 # 💻 Technical Stack
 
-### 🐍 Python
+### ⚡ Go
 
-`Python` `FastAPI` `Flask` `Pydantic` `asyncio` `REST APIs` `Data Processing` `Automation` `Ruff` `uv` `ty`
+`Go` `gRPC` `Protobuf` `REST APIs` `Microservices` `OAuth2` `Redis`
+
+Experience building cloud-native backend services and distributed systems using Go.
 
 ### 🦀 Rust
 
@@ -35,11 +38,10 @@ Based in **Hamburg, Germany** 🇩🇪
 
 Experience building asynchronous Rust microservices with **Tokio/Axum** and **Tonic/Prost gRPC** service-to-service communication.
 
-### ⚡ Go
+### 🐍 Python
 
-`Go` `gRPC` `Protobuf` `REST APIs` `Microservices` `OAuth2` `Redis`
+`Python` `FastAPI` `Flask` `Pydantic` `asyncio` `REST APIs` `Data Processing` `Automation` `Ruff` `uv` `ty`
 
-Experience building cloud-native backend services and distributed systems using Go.
 
 ### 🗄️ Data & Storage
 
@@ -61,11 +63,13 @@ Experience building cloud-native backend services and distributed systems using 
 
 # 🔧 Engineering Experience
 
-### Python Backend & Data Engineering
+### Go & Distributed Systems
 
-Designed and developed Python backend components for enterprise service platforms, including scheduled/background processing, asynchronous workloads, data transformation, and production observability.
+Designed and developed Go backend components for enterprise service platforms, including scheduled/background processing, asynchronous workloads, data transformation, and production observability.
 
 Worked with large volumes of data across **Elasticsearch and PostgreSQL**, designing staged data-processing models and customer-specific datasets for downstream application consumption.
+
+Built cloud-native backend services using **Go, gRPC, Protobuf, REST APIs, event-driven communication, OAuth2, and Redis**, applying Clean Architecture and SOLID principles.
 
 Used **asyncio, concurrency, parallel execution, and backpressure controls** to improve workload stability, throughput, and resource utilization.
 
@@ -75,9 +79,10 @@ Developed a **Rust-based authentication platform** composed of asynchronous micr
 
 Implemented service-to-service communication using **Tonic/Prost gRPC**, together with Serde-based serialization, JWT authentication, and structured error handling.
 
-### Go & Distributed Systems
+### AI - Python
 
-Built cloud-native backend services using **Go, gRPC, Protobuf, REST APIs, event-driven communication, OAuth2, and Redis**, applying Clean Architecture and SOLID principles.
+Developed AI-enabled backend integrations using Python with OpenAI, Claude and MCP servers for enterprise automation and AI-assisted
+backend workflows.
 
 ### Scientific Computing & HPC
 
@@ -85,7 +90,7 @@ Worked in the **Airbus scientific/HPC environment**, developing Python-based dep
 
 Supported platforms serving **14,000+ engineering users**, with a focus on production reliability, troubleshooting, and automation.
 
-### Enterprise Python / ERP
+### Enterprise Application - Python / ERP
 
 Developed and customized enterprise **Odoo ERP applications using Python and PostgreSQL**, working across Sales, Purchase, Accounting, Manufacturing, Subcontracting, Budgeting, and HR.
 
